@@ -1,0 +1,11 @@
+Price, Discount_Percent, Advertising_Spend, Competitor_Price, Customer_Rating, Stock_Available, Category,  Season, Units_Sold
+190.4,  27.9,  4207, 92.4,  4.2, 430, Electronics, Winter, 337
+475.6,  21.4,  1441, 272.7, 1.8,  16, Sports,      Summer, 126
+367.3,  12.4,  3763, 178.6, 3.2, 205, Clothing,    Spring, 211
+301.3,  32.6,   315, 431.9, 3.9, 430, Sports,      Spring, 267
+ 82.2,  27.4,   438, 226.9, 3.5,  65, Sports,      Summer, 301
+456.7,  15.2,  2100, 380.0, 4.0, 150, Electronics, Autumn, 195
+120.5,  35.0,  3500, 115.0, 4.8, 300, Food,        Winter, 390
+250.0,   8.0,  1800, 260.0, 3.1, 200, Furniture,   Spring, 180
+330.0,  25.0,  4500, 310.0, 4.5, 400, Clothing,    Summer, 310
+ 75.0,  40.0,  5000,  80.0, 4.9, 500, Food,        Winter, 449
